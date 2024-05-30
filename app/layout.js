@@ -5,7 +5,7 @@ import Footer from '@/components/Footer';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata = {
-  title: 'Anime poster',
+  title: 'anime-poster-web',
   description: 'Anime Posters,Anime,Anime description,Anime site',
 };
 
