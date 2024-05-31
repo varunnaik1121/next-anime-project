@@ -5,8 +5,9 @@ import Footer from '@/components/Footer';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata = {
-  title: 'anime-poster-web',
-  description: 'Anime Posters,Anime,Anime description,Anime site',
+  title: 'next-seo-demo',
+  description:
+    'next ssr,next seo,next seo demo, description,demo site to demonstrate next js ssr and ssg',
 };
 
 export default function RootLayout({ children }) {
